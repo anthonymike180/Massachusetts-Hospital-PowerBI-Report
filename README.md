@@ -1,4 +1,4 @@
-# Hospital Power BI Report
+# Massachusetts Hospital Power BI Report
 A comprehensive Power BI dashboard project designed to analyze and visualize hospital data. This project demonstrates how healthcare organizations can leverage data-driven insights to improve patient care, optimize operations, and support decision-making.   
 
 ## Tools Used
